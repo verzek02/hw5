@@ -12,5 +12,8 @@ create .gitignore
 
 git status -s
 
+
+
 git remote remove origin
 git clone link
+

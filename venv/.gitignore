@@ -1,0 +1,7 @@
+.idea
+.gitignore
+venv
+pycache/
+*.py[cod]
+*.so
+.env
